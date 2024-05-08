@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    tools:context=".MainSelfEvaluationActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/flatline_heading"
+        android:src="@drawable/flatline_small" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/self_evaluation"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="italic|bold" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="2dp"
+        android:gravity="center">
+
+        <TableRow>
+
+            <ImageView
+                android:id="@+id/depression"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:src="@drawable/depression"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:id="@+id/ptsd"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:src="@drawable/ptsd"
+                tools:ignore="ContentDescription" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/depressionButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/clear"
+                android:text="@string/depression"
+                android:textColor="@color/black"
+                tools:ignore="ButtonStyle" />
+
+            <Button
+                android:id="@+id/ptsdButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/clear"
+                android:text="@string/ptsd"
+                android:textColor="@color/black"
+                tools:ignore="ButtonStyle" />
+        </TableRow>
+        <TableRow>
+            <ImageView
+                android:id="@+id/mentalhealthmyths"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/mentalhealthmyths"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:id="@+id/anxiety_panic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/anxiety_panic"
+                tools:ignore="ContentDescription" />
+
+        </TableRow>
+        <TableRow>
+            <Button
+                android:id="@+id/mentalhealthmythsButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/clear"
+                android:text="@string/mental_health_myths"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                tools:ignore="ButtonStyle" />
+            <Button
+                android:id="@+id/anxiety_panicButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/clear"
+                android:text="@string/anxiety_and_panic"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                tools:ignore="ButtonStyle" />
+        </TableRow>
+        <Button
+            android:id="@+id/main_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/baby_blue"
+            android:text="@string/back_to_main_menu"
+            android:textColor="@color/white"/>
+    </TableLayout>
+</TableLayout>

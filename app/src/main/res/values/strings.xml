@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Flatline</string>
+    <string name="self_evaluation">Self-Evaluation</string>
+    <string name="depression">Depression</string>
+    <string name="ptsd">PTSD</string>
+    <string name="anxiety_and_panic">Anxiety and Panic</string>
+    <string name="mental_health_myths">Mental Health Myths</string>
+    <string name="flatline_heading">Flatline Heading</string>
+    <string name="instruction_depression">Answer yes or no to each of the following questions.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="depression_self_evaluation">Depression Self-Evaluation</string>
+    <string name="submit">Submit</string>
+    <string name="splashscreen">splashscreen</string>
+    <string name="start_evaluation">Start Evaluation</string>
+    <string name="have_you_stopped_going_out">Have you stopped going out?</string>
+    <string name="have_you_not_been_getting_things_done_at_work_or_school">Have you not been getting things done at work or school?</string>
+    <string name="have_you_been_withdrawn_from_close_family_and_friends">Have you been withdrawn from close family and friends?</string>
+    <string name="have_you_been_relying_on_alcohol_and_sedatives">Have you been relying on alcohol and sedatives?</string>
+    <string name="have_you_been_unable_to_concentrate">Have you been unable to concentrate?</string>
+    <string name="have_you_thought_that_you_are_a_failure">Have you thought that you are a failure?</string>
+    <string name="have_you_stopped_doing_things_you_enjoy">Have you stopped doing things you enjoy?</string>
+    <string name="have_you_thought_that_something_is_your_fault">Have you thought that something is your fault?</string>
+    <string name="have_you_that_that_nothing_good_ever_happens_to_you">Have you thought that nothing good ever happens to you?</string>
+    <string name="have_you_thought_that_you_are_worthless">Have you thought that you are worthless?</string>
+    <string name="have_thought_that_life_is_not_worth_living">Have thought that life is not worth living?</string>
+    <string name="have_you_been_feeling_overwhelmed">Have you been feeling overwhelmed?</string>
+    <string name="have_you_been_feeling_unhappy_or_depressed">Have you been feeling unhappy or depressed?</string>
+    <string name="have_been_feeling_irritable">Have been feeling irritable?</string>
+    <string name="have_been_feeling_frustrated">Have been feeling frustrated?</string>
+    <string name="have_been_feeling_a_lack_of_confidence">Have been feeling a lack of confidence?</string>
+    <string name="have_you_been_feeling_guilty">Have you been feeling guilty?</string>
+    <string name="have_you_been_feeling_indecisive">Have you been feeling indecisive?</string>
+    <string name="have_you_been_feeling_disappointed">Have you been feeling disappointed?</string>
+    <string name="have_you_been_feeling_miserable">Have you been feeling miserable?</string>
+    <string name="have_you_been_feeling_sad">Have you been feeling sad?</string>
+    <string name="are_you_tired_all_the_time">Are you tired all the time?</string>
+    <string name="are_you_sick_and_run_down">Are you sick and run down?</string>
+    <string name="are_you_getting_headaches_and_muscle_pains">Are you getting headaches and muscle pains?</string>
+    <string name="are_you_experiencing_a_churning_gut">Are you experiencing a churning gut?</string>
+    <string name="are_you_not_able_to_sleep">Are you not able to sleep?</string>
+    <string name="are_you_experience_a_poor_appetite_or_weight_loss">Are you experience a poor appetite or weight loss?</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="anxiety_and_panic_self_evaluation">Anxiety and Panic Self Evaluation</string>
+    <string name="instruction_anxiety">For each item decide if it: NEVER applies to you, SOMETIMES applies to you, HALF THE TIME applies to you, FREQUENTLY applies to you, ALWAYS applies to you.</string>
+    <string name="_1_i_feel_tense_nerves_restless_or_agitated">1. I feel tense, nerves, restless, or agitated</string>
+    <string name="_2_i_feel_afraid_for_no_apparent_reason">2. I feel afraid for no apparent reason</string>
+    <string name="_3_i_worry_about_bad_things_that_might_happen_to_me_or_those_i_care_about">3. I worry about bad things that might happen to me or those I care about.</string>
+    <string name="_10_i_wish_i_could_be_as_relaxed_with_myself_as_others_seem_to_be">10. I wish I could be as relaxed with myself as others seem to be.</string>
+    <string name="_9_from_time_to_time_i_have_experienced_a_racing_heartbeat_cold_hands_or_feet_dry_mouth_sweating_tight_muscles_difficulty_breathing_numbness_frequent_urination_or_hold_cold_flashes">9. From time to time I have experienced a racing heartbeat, cold hands or feet, dry mouth, sweating, tight muscles, difficulty breathing, numbness, frequent urination, or hold/cold flashes.</string>
+    <string name="_8_i_would_say_i_am_anxious_much_of_the_time">8. I would say I am anxious much of the time.</string>
+    <string name="_7_i_have_difficulty_with_my_concentration_memory_or_thinking">7. I have difficulty with my concentration, memory or thinking</string>
+    <string name="_6_i_wish_i_knew_a_way_to_make_myself_more_relaxed">6. I wish I knew a way to make myself more relaxed.</string>
+    <string name="_5_i_have_difficulty_eating_too_much_too_little_or_digesting_my_food">5. I have difficulty eating too much, too little or digesting my food.</string>
+    <string name="_4_i_have_difficulty_falling_asleep_staying_asleep_or_waking_up_early">4. I have difficulty falling asleep, staying asleep or waking up early</string>
+    <string name="never">NEVER</string>
+    <string name="sometimes">SOMETIMES</string>
+    <string name="half_the_time">HALF THE TIME</string>
+    <string name="frequently">FREQUENTLY</string>
+    <string name="always">ALWAYS</string>
+    <string name="ptsd_self_evaluation">PTSD Self Evaluation</string>
+    <string name="ptsd_instruct">Please identify the experience that troubles you most and answer the questions in relation to this experience.</string>
+    <string name="instruct_ptsd_P1_P9">Below are a number of problems that people sometimes report in response to traumatic or stressful life events. Please reach each item carefully, then select how much you have been bothered by that problem in the past month.</string>
+    <string name="P1">Having upsetting dreams that replay part of the experience or are related to the experience?</string>
+    <string name="not_at_all">Not at all</string>
+    <string name="a_little_bit">A little bit</string>
+    <string name="moderately">Moderately</string>
+    <string name="quite_a_bit">Quite a bit</string>
+    <string name="extremely">Extremely</string>
+    <string name="P2">Having powerful images or memories that sometimes come into your mind in which you feel the experience is happening again in the here and now?</string>
+    <string name="P3">Avoiding internal reminders of the experience (for example, thoughts, feelings, or physical sensations)?</string>
+    <string name="P4">Avoiding external reminders of the experience (for example, people, places, conversations, objects, activities, or situations)?</string>
+    <string name="P5">Being \'super-alert\', watchful, or on guard?</string>
+    <string name="P6">Feeling jumpy or easily started?</string>
+    <string name="in_the_past_month_have_the_above_problems">In the past month have the above problems:</string>
+    <string name="P7">Affected your relationships or social life?</string>
+    <string name="P8">Affected your work or ability to work?</string>
+    <string name="P9">Affected any other important part of your life such as parenting, or school or college work, or other important activities?</string>
+    <string name="start_ptsd_evaluation">Start PTSD Evaluation</string>
+    <string name="back_to_main_menu">Back to Main Menu</string>
+    <string name="back">Back</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+
+    <string name="welcome">Welcome</string>
+    <string name="settings">Settings</string>
+    <string name="evaluation">Evaluation</string>
+    <string name="journal">Journal</string>
+    <string name="blank">l</string>
+    <string name="location">Location</string>
+    <string name="music">Music</string>
+    <string name="add_note">Add note</string>
+    <string name="statistics">Statistics</string>
+    <string name="breathing_exercise">Breathing Exercise</string>
+    <string name="breathing">Breathing</string>
+    <string name="bar_chart">Bar chart</string>
+    <string name="pie_chart">Pie chart</string>
+    <string name="main_menu">Main Menu</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329825374442",
+    "project_id": "flatline-a86e1",
+    "storage_bucket": "flatline-a86e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329825374442:android:99def9de1db8a33b5f0793",
+        "android_client_info": {
+          "package_name": "com.group.flatline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329825374442-uf8nbinho7ouno5hvjqarib2mv01un12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfaOQcHZCnaPhiM80-qUv6NsHUISh6lMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329825374442-uf8nbinho7ouno5hvjqarib2mv01un12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
